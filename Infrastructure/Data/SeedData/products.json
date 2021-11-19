@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "Dolce & Gabbana/DG5027",
+    "Description": "Craftsmanship, refinement and timeless elegance: Dolce&Gabbana frames stand out for their unmistakable style, where the attention to details and the quality of materials are combined with Made in Italy creativity.",
+    "Price": 280,
+    "PictureUrl": "images/products/dolce&gabbana_dg5027.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Giorgio Armani/AR 309M",
+    "Description": "Elegant, modern and sophisticated, the Giorgio Armani collection stands out for the excellence of its manufacture, the extreme attention to detail, the purity of the lines and the use of high quality materials.",
+    "Price": 334,
+    "PictureUrl": "images/products/giorgioarmani_ar309m.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Armani Exchange/AX1017",
+    "Description": "A|X Armani Exchange is accessible Armani, inspired by street-chic culture and meant for the young generations or for those with a young mindset. Armani Exchange glasses frames are fast, affordable and metropolitan, without losing the active stance of the Giorgio Armani DNA.",
+    "Price": 123,
+    "PictureUrl": "images/products/armaniexchange_ax1017",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Prada/HERITAGE PR 16MV",
+    "Description": "Prada glasses are synonymous with cutting-edge style. All Prada frames reflect the brand's intellectual dimension, which combines structure and image through codes that go beyond trends.",
+    "Price": 285,
+    "PictureUrl": "images/products/prada_heritagepr16mv.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Ray-Ban/RB5169",
+    "Description": "Timeless style, authenticity and freedom of expression are the core values behind Ray-Ban glasses. The brand has been a leader in sun and prescription eyewear since its introduction of the iconic Aviator model, and today Ray-Ban eyeglasses and sunglasses remain at the forefront of cultural change - a symbol of self-expression.",
+    "Price": 149,
+    "PictureUrl": "images/products/rayban_rb5169.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Versace/VE3295",
+    "Description": "Made in Italy, Versace Eyewear provides the finishing touch to any look. Characterized by high-end materials and a recognizable design aesthetic, Versace eyeglasses and Versace sunglasses pair contemporary shapes with iconic brand codes.",
+    "Price": 264,
+    "PictureUrl": "images/products/versace_ve3295.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Dolce & Gabbana/DG5036",
+    "Description": "Craftsmanship, refinement and timeless elegance: Dolce&Gabbana frames stand out for their unmistakable style, where the attention to details and the quality of materials are combined with Made in Italy creativity.",
+    "Price": 307,
+    "PictureUrl": "images/products/dolce&gabbana_dg5036.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Giorgio Armani/AR7192",
+    "Description": "Elegant, modern and sophisticated, the Giorgio Armani collection stands out for the excellence of its manufacture, the extreme attention to detail, the purity of the lines and the use of high quality materials.",
+    "Price": 280,
+    "PictureUrl": "images/products/giorgioarmani_ar7192.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Armani Exchange/AX3053",
+    "Description": "A|X Armani Exchange is accessible Armani, inspired by street-chic culture and meant for the young generations or for those with a young mindset. Armani Exchange glasses frames are fast, affordable and metropolitan, without losing the active stance of the Giorgio Armani DNA.",
+    "Price": 117,
+    "PictureUrl": "images/products/armaniexchange_ax3035.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Prada/PR 04WV",
+    "Description": "Prada glasses are synonymous with cutting-edge style. All Prada frames reflect the brand's intellectual dimension, which combines structure and image through codes that go beyond trends.",
+    "Price": 288,
+    "PictureUrl": "images/products/prada_pr04wv.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Ray-Ban/RX5387",
+    "Description": "Timeless style, authenticity and freedom of expression are the core values behind Ray-Ban glasses. The brand has been a leader in sun and prescription eyewear since its introduction of the iconic Aviator model, and today Ray-Ban eyeglasses and sunglasses remain at the forefront of cultural change - a symbol of self-expression.",
+    "Price": 153,
+    "PictureUrl": "images/products/rayban_rx5387.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Versace/VE1271",
+    "Description": "Made in Italy, Versace Eyewear provides the finishing touch to any look. Characterized by high-end materials and a recognizable design aesthetic, Versace eyeglasses and Versace sunglasses pair contemporary shapes with iconic brand codes.",
+    "Price": 251,
+    "PictureUrl": "images/products/versace_ve1271.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Dolce & Gabbana"
+  },
+  {
+    "Id": 2,
+    "Name": "Giorgio Armani"
+  },
+  {
+    "Id": 3,
+    "Name": "Armani Exchange"
+  },
+  {
+    "Id": 4,
+    "Name": "Prada"
+  },
+  {
+    "Id": 5,
+    "Name": "Ray Ban"
+  },
+  {
+    "Id": 6,
+    "Name": "Versace"
+  }
+]
